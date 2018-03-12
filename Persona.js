@@ -1,6 +1,6 @@
 class Persona{
     constructor(nombre, edad){
-        this.nombre = nombre.toUpperCase():
+        this.nombre = nombre.toUpperCase();
         this.edad = edad;
     }
     saludo(){
