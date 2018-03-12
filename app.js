@@ -1,5 +1,5 @@
-import {Persona} from 'Persona.js';
-import {TITULO_PAGINA} from 'Constante.js';
+import {Persona} from './Persona.js';
+import {TITULO_PAGINA} from './Constante.js';
 
 document.getElementById('titulo').innerHTML = TITULO_PAGINA;
 
